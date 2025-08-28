@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Top 15 Pharma & Biotech M&A Deals</title>
+    <style>
+        body {
+            font-family: 'Inter', Arial, sans-serif;
+            margin: 20px;
+            background-color: #f4f7f9;
+            color: #333;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #ffffff;
+            border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            border-radius: 10px;
+            overflow: hidden;
+        }
+        caption {
+            font-size: 1.75em;
+            font-weight: bold;
+            margin-bottom: 20px;
+            color: #1e3a8a;
+            text-align: left;
+        }
+        th, td {
+            padding: 15px;
+            text-align: left;
+            border-bottom: 1px solid #e2e8f0;
+        }
+        th {
+            background-color: #1e3a8a;
+            color: white;
+            font-weight: 600;
+            text-transform: uppercase;
+        }
+        tr:nth-child(even) {
+            background-color: #f8faff;
+        }
+        tr:hover {
+            background-color: #e0f2fe;
+            transition: background-color 0.3s ease;
+        }
+        a {
+            color: #2563eb;
+            text-decoration: none;
+            font-weight: 500;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .note {
+            font-size: 0.9em;
+            color: #64748b;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <table>
+            <caption>Top Pharma & Biotech M&A Deals of 2024 & 2025</caption>
+            <thead>
+                <tr>
+                    <th>Acquirer</th>
+                    <th>Target</th>
+                    <th>Value ($)</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Novo Holdings</td>
+                    <td>Catalent</td>
+                    <td><a href="https://www.catalent.com/catalent-news/novo-holdings-to-acquire-catalent/" target="_blank">$16.50B</a></td>
+                </tr>
+                <tr>
+                    <td>Gilead</td>
+                    <td>CymaBay Therapeutics</td>
+                    <td><a href="https://www.gilead.com/news/news-details/2024/gilead-sciences-expands-liver-portfolio-with-acquisition-of-cymabay-therapeutics" target="_blank">$4.30B</a></td>
+                </tr>
+                <tr>
+                    <td>Sinopharm</td>
+                    <td>China TCM</td>
+                    <td><a href="https://firstwordpharma.com/story/5829669" target="_blank">$2.96B</a></td>
+                </tr>
+                <tr>
+                    <td>Novartis</td>
+                    <td>MorphoSys</td>
+                    <td><a href="https://www.novartis.com/news/media-releases/novartis-strengthen-oncology-pipeline-agreement-acquire-morphosys-ag-eur-68-share-or-aggregate-eur-27bn-cash" target="_blank">$2.90B</a></td>
+                </tr>
+                <tr>
+                    <td>Roquette</td>
+                    <td>IFF Pharma Solutions</td>
+                    <td><a href="https://www.roquette.com/-/media/media-center/press-release-ni/2024/20240319-press-release-roquette-iff-pharma-solutions-acquisition-agreement.pdf" target="_blank">$2.85B</a></td>
+                </tr>
+                <tr>
+                    <td>AstraZeneca</td>
+                    <td>Fusion Pharmaceuticals</td>
+                    <td><a href="https://www.astrazeneca.com/media-centre/press-releases/2024/acquisition-of-fusion-completed.html" target="_blank">$2.40B</a></td>
+                </tr>
+                <tr>
+                    <td>Sanofi</td>
+                    <td>Inhibrx</td>
+                    <td><a href="https://www.sanofi.com/en/media-room/press-releases/2024/2024-01-23-06-30-00-2813696" target="_blank">$2.20B</a></td>
+                </tr>
+                <tr>
+                    <td>Johnson & Johnson</td>
+                    <td>Ambrx Biopharma</td>
+                    <td><a href="https://www.jnj.com/media-center/press-releases/johnson-johnson-completes-acquisition-of-ambrx" target="_blank">$2.00B</a></td>
+                </tr>
+                <tr>
+                    <td>ALPS</td>
+                    <td>Globelink</td>
+                    <td><a href="https://example.com/acquisition-news" target="_blank">$1.60B</a> <sup>*</sup></td>
+                </tr>
+                <tr>
+                    <td>GSK</td>
+                    <td>Aiolos Bio</td>
+                    <td><a href="https://www.gsk.com/media/wamhmy0r/press-release-gsk-completes-acquisition-of-aiolos-bio.pdf" target="_blank">$1.40B</a></td>
+                </tr>
+                <tr>
+                    <td>MSD Animal Health</td>
+                    <td>Elanco (Aqua Business)</td>
+                    <td><a href="https://www.msd-animal-health.com/tag/elanco/" target="_blank">$1.30B</a></td>
+                </tr>
+                <tr>
+                    <td>Lonza</td>
+                    <td>Genentech (Roche)</td>
+                    <td><a href="https://chemanager-online.com/en/news/lonza-completes-acquisition-of-vacaville-biologics-site-from-roche" target="_blank">$1.20B</a></td>
+                </tr>
+                <tr>
+                    <td>Cardinal Health</td>
+                    <td>Specialty Networks</td>
+                    <td><a href="https://newsroom.cardinalhealth.com/2024-03-18-Cardinal-Health-completes-acquisition-of-Specialty-Networks-and-its-PPS-Analytics-platform" target="_blank">$1.20B</a></td>
+                </tr>
+                <tr>
+                    <td>Novo Nordisk</td>
+                    <td>Cardior Pharmaceuticals</td>
+                    <td><a href="https://www.mpg.de/21737076/0325-mpin-novo-nordisk-to-acquire-cardior-pharmaceuticals-1160219-x" target="_blank">$1.11B</a></td>
+                </tr>
+                <tr>
+                    <td>AstraZeneca</td>
+                    <td>Amolyt Pharma</td>
+                    <td><a href="https://www.reuters.com/business/healthcare-pharmaceuticals/astrazeneca-buy-france-based-amolyt-pharma-105-bln-2024-03-14/" target="_blank">$1.05B</a></td>
+                </tr>
+            </tbody>
+        </table>
+        <p class="note"><sup>*</sup> No specific announcement link found for ALPS and Globelink. The link is a placeholder.</p>
+    </div>
+</body>
+</html>
